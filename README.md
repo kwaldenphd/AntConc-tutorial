@@ -11,9 +11,7 @@ Text Analysis in AntConc is licensed under a <a href="http://creativecommons.org
 
 <hr />
 
-Developed by Laurence Anthony, <a href="http://www.laurenceanthony.net/software/antconc/">AntConc</a> is a free, closed-source program that runs on Windows, OS, and Linux. At the most basic level, AntConc is a concordancer, or a program that constructs a concordance based on terms in a text or collection of texts. AntConc also allows users to visualize concordance calculations and generate word and keyword lists based on terms present in the text. AntConc also supports cluster and collocation analysis and visualization.
-<blockquote><em>Exploring Big Historical Data: </em>pages 79-83</blockquote>
-With Voyant, we explored a graphical user interface option for conducting textual analysis. AntConc offers a somewhat more hands-on, customizable approach to analyzing a text.
+Developed by Laurence Anthony, <a href="http://www.laurenceanthony.net/software/antconc/">AntConc</a> is a free, closed-source program that runs on Windows, OS, and Linux. At the most basic level, AntConc is a concordancer, or a program that constructs a concordance based on terms in a text or collection of texts. AntConc also allows users to visualize concordance calculations and generate word and keyword lists based on terms present in the text. AntConc also supports cluster and collocation analysis and visualization. With Voyant, we explored a graphical user interface option for conducting textual analysis. AntConc offers a somewhat more hands-on, customizable approach to analyzing a text.
 
 <hr />
 
