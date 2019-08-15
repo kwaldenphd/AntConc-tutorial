@@ -15,6 +15,12 @@ Developed by Laurence Anthony, <a href="http://www.laurenceanthony.net/software/
 
 <hr />
 
+## Data
+
+Download the Files compressed folder in this repository. Extract the contents to a folder on your Desktop.
+
+<hr />
+
 ## Downloading AntConc
 
 If you want to work with AntConc on your own computer, <a href="http://www.laurenceanthony.net/software/antconc/">select the appropriate version</a> for your operating system and following the installation instructions.
@@ -31,7 +37,7 @@ If you want to work with AntConc on your own computer, <a href="http://www.laure
 
 <p align="center"><a href="https://github.com/kwaldenphd/AntConc-tutorial/blob/master/screenshots/Capture_2.PNG?raw=true"><img class="aligncenter size-full wp-image-584" src="https://github.com/kwaldenphd/AntConc-tutorial/blob/master/screenshots/Capture_2.PNG?raw=true" alt="" width="790" height="594" /></a></p>
 
-3-Select <strong>File-&gt;Open Dir</strong> and navigate to the \\storage\projects\HIS\HIS-295-02\SB_Text_Data\Files.  Click <strong>OK</strong>.
+3-Select <strong>File-&gt;Open Dir</strong> and navigate the Desktop folder where you put the S&B files.  Click <strong>OK</strong>.
 
 4-The loaded files will be listed on the left-hand window in AntConc, and the total number of files will display at the bottom of that window.
 
