@@ -27,11 +27,13 @@ If you want to work with AntConc on your own computer, <a href="http://www.laure
 
 ## Data
 
-2-AntConc allows you to open <strong>single files</strong>, as well as open an entire <strong>file directory</strong>. For this tutorial, we will be working with a large number of S&amp;B text files, so opening the directory makes more sense than loading these files individually.
+Download the Bario_Fino_Lyrics text file located in this repository. Save the file to your computer.
+
+2-AntConc allows you to open <strong>single files</strong>, as well as open an entire <strong>file directory</strong>. For this tutorial, we will be working with a single text file, so we will be loading an individual file.
 
 <p align="center"><a href="https://github.com/kwaldenphd/AntConc-tutorial/blob/master/screenshots/Capture_2.PNG?raw=true"><img class="aligncenter size-full wp-image-584" src="https://github.com/kwaldenphd/AntConc-tutorial/blob/master/screenshots/Capture_2.PNG?raw=true" alt="" width="790" height="594" /></a></p>
 
-3-Select <strong>File-&gt;Open Dir</strong> and navigate to the \\storage\projects\HIS\HIS-295-02\SB_Text_Data\Files.  Click <strong>OK</strong>.
+3-Select <strong>File-&gt;Open File(s)</strong> and select the Barrio_Fino_Lyrics text file.  Click <strong>OK</strong>.
 
 4-The loaded files will be listed on the left-hand window in AntConc, and the total number of files will display at the bottom of that window.
 
@@ -98,9 +100,10 @@ If you want to work with AntConc on your own computer, <a href="http://www.laure
 17-Go to <strong>Global Settings-&gt; Wildcard Settings</strong> to view or edit the full list of available wildcard operators.
 
 18-Search for m?n and wom?n and compare your results.
+
 <blockquote>Note on operators:
 
-The * operator is often used in Boolean searching. The ? operator is more specific because it stands in for only one character. For example, searching m*n will bring back results that include men, mean, mellon, etc. Searching m?n  will return men, man, and min. Similarly, wom?n will return woman and women.</blockquote>
+The * operator is often used in Boolean searching. The ? operator is more specific because it stands in for only one character. For example, searching m * n will bring back results that include men, mean, mellon, etc. Searching m?n  will return men, man, and min. Similarly, wom?n will return woman and women.</blockquote>
 
 <hr />
 
@@ -154,6 +157,6 @@ The * operator is often used in Boolean searching. The ? operator is more specif
  	<li>What do you notice is similar about Voyant Tools and AntConc as digital tools for textual analysis? What are the differences?</li>
  	<li>Which did you prefer working with? Why?</li>
  	<li>How was your understanding of the text impacted by the analysis we did in AntConc? What questions do you still have?</li>
- 	<li>What would be your next step in continuing the textual analysis of S&amp;B issues, using Voyant or AntConc?</li>
- 	<li>What types of historical research questions can you see textual analysis being useful to answer or respond to?</li>
+ 	<li>What would be your next step in continuing the textual analysis of song lyrics, using Voyant or AntConc?</li>
+ 	<li>What types of  research questions can you see textual analysis being useful to answer or respond to?</li>
 </ul>
